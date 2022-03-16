@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## THIS WEBSITE IS UNDER CONSTRUCTION
 
 You can use the [editor on GitHub](https://github.com/Random-User-34/PLA-Factions/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
