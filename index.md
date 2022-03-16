@@ -4,34 +4,26 @@ You can use the [editor on GitHub](https://github.com/Random-User-34/PLA-Faction
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### About us
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+PLA Factions is a fairly new Minecraft Factions server, with plugins such as SaberFactions, McMMO, Parkour, and more.
 
-```markdown
-Syntax highlighted code block
+Join us at join.plafactions.xyz
 
-# Header 1
-## Header 2
-### Header 3
+### Rules
 
-- Bulleted
-- List
+1. DO NOT harass, troll, bully, or manipulate. minor usage of expletives is allowed, however sexual language and heavy use of expletives is punishable.
+2. NO overtly sexist, racist or homophobic remarks from ANY player will be tolerated, and will be punished as such. promotion of fascist ideologies will result in an immediate ban.
+3. Hacks and Exploits will, perhaps obviously, be grounds for an immediate permanent or IP ban.
+4. do not steal, grief, or maliciously edit another's builds, where applicable. This includes faction bases.
+5. it goes without saying, however, during the duration of your stay on this server, please do not engage in illegal activity or violate the MOJANG Terms of Service. 
+6. as said before, do not grief or or create offensive and obscene structures. If you are raiding a faction, either create a small entrance to the faction, or use a small explosion.
+7. redstone builds are, WITHIN REASON, allowed. This includes auto-farms, clocks, and auto-defense. however, large-scale builds that cause interference with server performance will be investigated.  
+8. New factions are given a 5-day raid protection. You are only allowed to raid a new faction if they have declared you enemy.  
+9.  Alt factions are not tolerated. This refers to factions that are led by or include more than 1 alt accounts. 
+10.  do not backseat moderate, impersonate, or threaten others with punishment. This type of behavior may result in punishment up to a week-long ban.
+11.  do nor use glitches to exploit or gain entry to faction bases, and report any glitches to staff.
 
-1. Numbered
-2. List
+### Contact Us
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Random-User-34/PLA-Factions/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+You can contact the Staff by joining our Discord at https://discord.gg/WFF3YDSuqT.
